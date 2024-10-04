@@ -8,7 +8,7 @@ This repository contains a collection of mini projects built while following a U
 - [Mini Projects](#mini-projects)
 - [Technologies](#technologies)
 - [How to Use](#how-to-use)
-- [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
@@ -42,3 +42,6 @@ To run or view the mini projects locally:
 
    ```bash
    git clone https://github.com/jordycg/tailwind-mini-projects.git
+
+## Disclaimer
+These projects are based on tutorials from Udemy's Tailwind CSS courses and are intended for learning and personal development purposes only. No commercial use is intended.
